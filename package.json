@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name" : "Thomas Radloff",
+    "email" : "bostontrader@gmail.com",
+    "url" : "https://github.com/bostontrader"
+  },
+  "bugs": {
+    "url": "https://github.com/bostontrader/bookwerx-testdata/issues"
+  },
+  "description": "Test data for the bookwerx-* family. ",
+  "homepage": "https://github.com/bostontrader/bookwerx-testdata#readme",
+  "keywords": [
+    "bookwerx",
+    "multi-currency"
+  ],
+  "license": "MIT",
+  "name": "bookwerx-testdata",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bostontrader/bookwerx-testdata.git"
+  },
+  "version": "0.1.0"
+}
