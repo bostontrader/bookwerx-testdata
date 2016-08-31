@@ -1,12 +1,14 @@
 exports.accountBank         = {"title":"Bank of Mises"}
 exports.accountCash         = {"title":"Cash in Mattress"}
 exports.accountOwnersEquity = {"title":"OwnersEquity"}
-exports.accountExpLegal     = {"title":"Legal Fees"}
+exports.accountExpRent      = {"title":"Rent"}
 exports.accountRevenue      = {"title":"Mercenary Services"}
 
-exports.categoryAsset   = {"symbol":"A", "title":"Asset"}
-exports.categoryExpense = {"symbol":"Ex", "title":"Expense"}
-exports.categoryRevenue = {"symbol":"R", "title":"Revenue"}
+exports.categoryAsset       = {"symbol":"A", "title":"Asset"}
+exports.categoryAssetLiquid = {"symbol":"LIQ", "title":"Liquid Assets"}
+exports.categoryExpense     = {"symbol":"Ex", "title":"Expense"}
+exports.categoryExpenseRent = {"symbol":"ExRent", "title":"Rent"}
+exports.categoryRevenue     = {"symbol":"R", "title":"Revenue"}
 
 exports.currencyCNY = {"symbol":"CNY", "title":"Ren Min Bi"}
 exports.currencyRUB = {"symbol":"RUB", "title":"Russian Ruble"}
