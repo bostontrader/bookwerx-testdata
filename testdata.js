@@ -15,5 +15,5 @@ exports.currencyRUB = {"symbol":"RUB", "title":"Russian Ruble"}
 exports.currencyAUX = {"symbol":"AUX", "title":"Gold"}
 exports.currencyQLO = {"symbol":"QLO", "title":"Quatloo"}
 
-exports.transaction1 = {"datetime":"2016-08-15 08:00:00", "note":"Initial capital"}
-exports.transaction2 = {"datetime":"2016-08-15 08:05:00", "note":"Legal fees"}
+exports.transaction1 = {"datetime":"2017-08-15 08:00:00", "note":"Initial capital"}
+exports.transaction2 = {"datetime":"2017-08-15 08:05:00", "note":"Legal fees"}
