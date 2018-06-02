@@ -14,10 +14,11 @@
     "multi-currency"
   ],
   "license": "MIT",
+  "main": "testdata.js",
   "name": "bookwerx-testdata",
   "repository": {
     "type": "git",
     "url": "https://github.com/bostontrader/bookwerx-testdata.git"
   },
-  "version": "0.2.5"
+  "version": "0.2.6"
 }
