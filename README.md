@@ -12,6 +12,6 @@ In both cases we will ultimately want to send the exact same sequence of HTTP re
 
 **bookwerx-core** can thus follow the script and do what's relevant to it, such as perhaps ignoring UI related gyrations, while **bookwerx-ui** can follow the same script and do what's relevant to it.
 
-# The Solution
+# On require vs import
 
-**bookwerx-core** therefore provides "universalIntegrationTest" which everybody can use.
+There exists a giant can of worms re: using the 'require' statement vs the 'import' statement.  The bottom line, IMHO, is that the 'import' statement, although shiny, new, and modern, just doesn't earn its keep.  Everybody else in the world already uses 'require' and that works well enough, especially in this particular context.  The 'import' statement is not very well supported and requires too many contortions to use.  All this and for what benefit?  So we can load modules asynchonously?
